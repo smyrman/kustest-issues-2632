@@ -1,0 +1,7 @@
+# Copy of content from test
+apiVersion: example.com/v1beta1
+kind: MyPlugin
+metadata:
+  name: example-configmap-test
+data:
+  username: whatever
